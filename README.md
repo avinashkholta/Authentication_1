@@ -1,4 +1,7 @@
 Backend Authentication & User Management API
+
+
+
 Overview
 This project is a simple and secure authentication and user management API built using Node.js, Express.js, and MongoDB. It provides essential authentication features such as JWT-based login, user registration, and CRUD operations for managing user data. The API does not include any frontend or middleware, focusing solely on the backend logic for handling user authentication and data management.
 
